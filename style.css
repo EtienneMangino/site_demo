@@ -74,9 +74,9 @@ header {
 
 .foot p{
 
-  font-size: 20px;
+  font-size: 15px;
   color: #858585;
-  line-height: 3em;
+  line-height: 5em;
 }
 .girl img{
   width: 350px;
@@ -86,3 +86,27 @@ header {
 .saut{
   margin-top: 40px;
 }
+
+.navbar-form-eti{
+  opacity: 0.7;
+  background-color: #565555;
+  border: 0px;
+}
+
+.navbar-form-eti .navbar-header > a {
+  color: white;
+  font-size: 30px;
+  }
+  .navbar-form-eti .navbar-header > a:hover {
+  color: white;
+  font-size: 30px;
+  }
+
+.navbar-form-eti .navbar-nav > li > a {
+  color: white;
+  font-size: 20px;
+  }
+.navbar-brand .fa {
+  line-height: 0;
+}
+
